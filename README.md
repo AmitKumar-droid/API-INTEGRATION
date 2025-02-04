@@ -21,3 +21,5 @@ HTML: For the basic structure of the webpage.
 CSS: For styling and creating a responsive layout for the news articles.
 JavaScript: For fetching the data from the NewsAPI and dynamically displaying it on the webpage.
 NewsAPI: A free API service that provides access to current news articles from a variety of sources.
+
+**OUTPUT OF TASK**: (https://github.com/user-attachments/assets/949db5ea-c681-4ccc-86cc-e0cdcdb75ee2)
